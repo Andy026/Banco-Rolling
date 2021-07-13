@@ -55,3 +55,10 @@ footer h2 {
     height: 100%;
     object-fit: cover;
 }
+
+@media all and (max-width: 576px){
+    .sliderResponsive{
+        height: 250px;
+        object-fit: cover;
+    }
+}
