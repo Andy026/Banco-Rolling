@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rollingBankNavBrand{
+    font-family: 'Suez One', serif;
+}
+
+#imgIphone{
+    width: 300px;
+}
+
+.boxShadow{
+    box-shadow: -6px 8px 43px -6px rgba(0,0,0,0.48);
+    -webkit-box-shadow: -6px 8px 43px -6px rgba(0,0,0,0.48);
+    -moz-box-shadow: -6px 8px 43px -6px rgba(0,0,0,0.48);
+}
+
+#usuariosFinancierosImg{
+    width: 200px;
+}
+
+footer{
+    background: #353535;
+}
+
+a {
+    color: grey; 
+    text-decoration: none;
+}
+
+footer h2 {
+    color: grey;
+}
+
+.cajaInfo{
+    width: 340px;
+
+}
+
+.cajaInfoPrecios{
+    width: 950px;
+}
+
+#iphone{
+    width: 100%;
+
+}
